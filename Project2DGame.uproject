@@ -9,5 +9,16 @@
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
+	],
+	"Plugins": [
+		{
+			"Name": "Spriter",
+			"Enabled": false
+		},
+		{
+			"Name": "HGGifImporter",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4b62266dcb0c4ffaac8e7ebdc61b4fba"
+		}
 	]
 }
